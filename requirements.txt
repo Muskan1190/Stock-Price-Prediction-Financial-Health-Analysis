@@ -1,0 +1,12 @@
+pandas
+numpy
+yfinance
+pandas_datareader
+requests
+beautifulsoup4
+scikit-learn
+xgboost
+matplotlib
+seaborn
+plotly
+streamlit
