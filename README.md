@@ -18,10 +18,6 @@ This project focuses on:
 - **matplotlib**, **seaborn**, **plotly** (visualizations)
 - **streamlit** (optional deployment)
 
-## 📂 Project Structure
-
-Financial-Analysis-Stock-Prediction/ ├── data/ # Downloaded data files ├── notebooks/ # Data collection, EDA, modeling │ ├── 1_data_collection.ipynb │ ├── 2_eda_cleaning.ipynb │ ├── 3_model_training.ipynb ├── models/ # Saved models (pickle files) ├── images/ # Graphs and plots ├── README.md # Project overview └── requirements.txt # Python libraries
-
 
 ## 🔍 Problem Statement
 - **Goal 1:** Predict next-day stock closing prices using past financial and stock market data.
